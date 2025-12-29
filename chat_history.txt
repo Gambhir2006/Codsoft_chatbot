@@ -1,0 +1,36 @@
+2025-12-03T16:27:10.765593 USER: python -u "c:\Users\HP\OneDrive\Desktop\chatbot\chatbot.py"
+2025-12-03T16:27:10.765593 BOT: I'm not sure I fully understood that. Could you rephrase?
+You can type 'help' to see what I can do.
+2025-12-03T16:27:18.631081 USER: hi
+2025-12-03T16:27:18.631081 BOT: Hey! 👋 How's it going? Ask me 'help' to see what I can do.
+2025-12-03T16:27:28.508963 USER: help
+2025-12-03T16:27:28.508963 BOT: I can understand simple requests. Try:
+- 'hi' or 'hello'
+- 'what is the time' or just 'time'
+- 'add 4 and 5' or '7 + 3'
+- 'subtract 10 and 3' or '10 - 3'
+- 'who made you', 'version'
+- 'bye' / 'exit' to quit
+
+2025-12-03T16:27:34.105074 USER: time
+2025-12-03T16:27:34.105074 BOT: It's 2025-12-03 16:27:32 (local time).
+2025-12-29T22:58:12.367783 USER: hi
+2025-12-29T22:58:12.367783 BOT: Hey! 👋 How can I help you today?
+2025-12-29T22:58:18.647304 USER: what is your name
+2025-12-29T22:58:18.647304 BOT: My name is Gambhir Jha.
+2025-12-29T22:58:30.903408 USER: who develop you
+2025-12-29T22:58:30.903408 BOT: I was created by Gambhir Jha as a simple demo chatbot.
+2025-12-29T22:59:50.038458 USER: hii
+2025-12-29T22:59:50.038458 BOT: Sorry, I didn’t understand that. Type 'help' to see what I can do.
+2025-12-29T22:59:51.830502 USER: hi
+2025-12-29T22:59:51.830502 BOT: Hey! 👋 How can I help you today?
+2025-12-29T22:59:55.008476 USER: bye
+2025-12-29T22:59:55.008476 BOT: Bye! 👋 Take care.
+2025-12-29T23:03:00.009768 USER: Hi
+2025-12-29T23:03:00.009768 BOT: Hey! 👋 How can I help you today?
+2025-12-29T23:03:04.886258 USER: what is your name
+2025-12-29T23:03:04.886258 BOT: My name is Gambhir Jha.
+2025-12-29T23:03:13.103750 USER: who develop you
+2025-12-29T23:03:13.103750 BOT: I was created by Gambhir Jha as a simple demo chatbot.
+2025-12-29T23:03:18.065875 USER: Bye
+2025-12-29T23:03:18.065875 BOT: Bye! 👋 Take care.
